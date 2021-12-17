@@ -11,7 +11,7 @@ I'm currently looking for a job as a Data Scientist or as a Data Analyst.
 
 ### Connect with me:
 
-[<img align="left" alt="JP | LinkedIn" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fapplets.imgix.net%2Fhttps%253A%252F%252Fassets.ifttt.com%252Fimages%252Fchannels%252F28%252Ficons%252Fmonochrome_large.png%3Fw%3D240%26h%3D240%26s%3D56bb6f6e4569784bab854bf0a0da8bab&imgrefurl=https%3A%2F%2Fifttt.com%2Finstagram&tbnid=k0ClwMVxxHk2iM&vet=12ahUKEwiQqujw7uv0AhVrn3IEHX3mBjMQMygLegUIARDqAQ..i&docid=WLZJzt3sq-dmcM&w=240&h=240&itg=1&q=instagram&client=safari&ved=2ahUKEwiQqujw7uv0AhVrn3IEHX3mBjMQMygLegUIARDqAQ" />][linkedin]
+[<img align="left" alt="JP | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -35,4 +35,4 @@ I'm currently looking for a job as a Data Scientist or as a Data Analyst.
 [instagram]: https://www.instagram.com/jean_philippe_petit_frere_/
 [linkedin]: https://www.linkedin.com/in/jeanphilpetitfrere/
 
-[![](https://data.jsdelivr.com/v1/package/npm/instagram/badge)](https://www.jsdelivr.com/package/npm/instagram)
+
