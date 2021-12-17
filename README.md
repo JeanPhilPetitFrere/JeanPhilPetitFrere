@@ -27,7 +27,7 @@ I'm currently looking for a job as a Data Scientist or as a Data Analyst.
 
 ---
 ![](https://github.com/JeanPhilPetitFrere/readme_details/blob/master/generated/overview.svg)
-
+![](https://github.com/JeanPhilPetitFrere/readme_details/blob/master/generated/languages.svg)
 
 
 
