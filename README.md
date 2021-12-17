@@ -26,7 +26,7 @@ I'm currently looking for a job as a Data Scientist or as a Data Analyst.
 <br />
 
 
-[![](https://github.com/JeanPhilPetitFrere/github-stats/blob/master/generated/overview.svg)]
+[![](https://github.com/JeanPhilPetitFrere/readme_details/blob/master/generated/overview.svg)]
 ---
 
 [![Jean Philippe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPhilPetitFrere&count_private=true)](https://github.com/JeanPhilPetitFrere/github-readme-stats)
