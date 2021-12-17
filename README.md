@@ -33,6 +33,6 @@ I'm currently looking for a job as a Data Scientist or as a Data Analyst.
 
 
 
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/jean_philippe_petit_frere_/
 [linkedin]: https://www.linkedin.com/in/jeanphilpetitfrere/
 
