@@ -35,3 +35,4 @@ I'm currently looking for a job as a Data Scientist or as a Data Analyst.
 [instagram]: https://www.instagram.com/jean_philippe_petit_frere_/
 [linkedin]: https://www.linkedin.com/in/jeanphilpetitfrere/
 
+[![](https://data.jsdelivr.com/v1/package/npm/instagram/badge)](https://www.jsdelivr.com/package/npm/instagram)
