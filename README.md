@@ -1,7 +1,7 @@
 ### Hi there👋 
 
 
-## I'm a newly graduated data scientist!!
+## A little bit about me!!
 Let me introduce myself, I am Jean Philippe and I am a newly graduated Data Scientist.
 I started coding at the beginning of covid, I tried a few languages (html,CSS,etc.), before falling in love with python.
 I learned the basic on and off for a year, thanks to Codecademy. Until I decided to enroll in a Data Science bootcamp given by Concordia University.
