@@ -2,12 +2,10 @@
 
 
 ## A little bit about me!!
-Let me introduce myself, I am Jean Philippe and I am a newly graduated Data Scientist.
-I started coding at the beginning of covid, I tried a few languages (html,CSS,etc.), before falling in love with python.
-I learned the basic on and off for a year, thanks to Codecademy. Until I decided to enroll in a Data Science bootcamp given by Concordia University.
+As a Data Scientist with over 2 years of experience, I've had the opportunity to dive deep into the world of Natural Language Processing (NLP) and Large Language Models (LLMs). 
+During this time, I have worked with technologies such as Hugging Face, AWS, GCP, and LangChain, among others. 
 
-
-⚡ Fun fact: I play badminton.
+⚡ Fun fact: In my free time, I organize Data Science meetups, go climbing, and enjoy the occasional game of Mario Kart.
 
 ### Connect with me:
 
