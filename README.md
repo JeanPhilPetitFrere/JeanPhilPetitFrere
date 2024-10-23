@@ -2,7 +2,7 @@
 
 
 ## A little bit about me!!
-As a Data Scientist with over 2 years of experience, I've had the opportunity to dive deep into the world of Natural Language Processing (NLP) and Large Language Models (LLMs). 
+As a Data Scientist with over 3 years of experience, I've had the opportunity to dive deep into the world of Natural Language Processing (NLP) and Large Language Models (LLMs). 
 During this time, I have worked with technologies such as Hugging Face, AWS, GCP, and LangChain, among others. 
 
 ⚡ Fun fact: In my free time, I organize Data Science meetups, go climbing, and enjoy the occasional game of Mario Kart.
