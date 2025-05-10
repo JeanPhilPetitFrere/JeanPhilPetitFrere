@@ -23,13 +23,6 @@ During this time, I have worked with technologies such as Hugging Face, AWS, GCP
 <br />
 <br />
 
----
-![](https://github.com/JeanPhilPetitFrere/readme_details/blob/master/generated/overview.svg)
-![](https://github.com/JeanPhilPetitFrere/readme_details/blob/master/generated/languages.svg)
-
-
-
-
 [instagram]: https://www.instagram.com/jean_philippe_petit_frere_/
 [linkedin]: https://www.linkedin.com/in/jeanphilpetitfrere/
 
