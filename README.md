@@ -1,26 +1,31 @@
-### Hi there👋 
+## 👋 Hi there, I'm Jean Philippe!
+💼 Data Scientist @ Intact | Machine Learning Engineer
 
+### 📌 About Me
+I'm a Data Scientist with over 3 years of experience in the technology and market research industries. My work has primarily focused on building NLP-driven solutions for large-scale data processing, survey optimization, automated translation, and quality assurance.
 
-## A little bit about me!!
-As a Data Scientist with over 3 years of experience, I've had the opportunity to dive deep into the world of Natural Language Processing (NLP) and Large Language Models (LLMs). 
-During this time, I have worked with technologies such as Hugging Face, AWS, GCP, and LangChain, among others. 
+Currently, I develop machine learning solutions for the insurance industry as part of the chatbot team, focusing on enhancing conversational AI capabilities and streamlining client interactions
 
-⚡ Fun fact: In my free time, I organize Data Science meetups, go climbing, and enjoy the occasional game of Mario Kart.
+⚡ Fun fact: In my free time, I organize Data Science meetups, go climbing, play badminton, play a mean game of monopoly and enjoy the occasional game of Mario Kart.
 
-### Connect with me:
+### 🛠️ Skills
+
+Programming: Python, SQL
+
+Machine Learning: NLP, LLMs, Applied ML, Generative AI
+
+Frameworks & Tools: PyTorch, Streamlit, FastAPI, Docker, AWS SageMaker, Google BigQuery
+
+Cloud & Deployment: AWS (ECS, Lambda, S3, SQS, SES), Docker
+
+Data Visualization: Looker Studio, Tableau, PowerBI
+
+### 📫 Let's Connect
 
 [<img align="left" alt="JP | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />]
-
-<br />
+Feel free to reach out—I’m always open to collaborating on new projects or organizing community events!
 <br />
 
 [instagram]: https://www.instagram.com/jean_philippe_petit_frere_/
