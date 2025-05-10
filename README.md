@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Jean Philippe!
-💼 Data Scientist @ Intact | Machine Learning Engineer
+🧑🏾‍🔬 Data Scientist | Machine Learning Engineer
 
 ### 📌 About Me
 I'm a Data Scientist with over 3 years of experience in the technology and market research industries. My work has primarily focused on building NLP-driven solutions for data processing, survey optimization, automated translation, and quality assurance.
