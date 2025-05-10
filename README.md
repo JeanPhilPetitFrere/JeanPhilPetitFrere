@@ -2,7 +2,7 @@
 💼 Data Scientist @ Intact | Machine Learning Engineer
 
 ### 📌 About Me
-I'm a Data Scientist with over 3 years of experience in the technology and market research industries. My work has primarily focused on building NLP-driven solutions for large-scale data processing, survey optimization, automated translation, and quality assurance.
+I'm a Data Scientist with over 3 years of experience in the technology and market research industries. My work has primarily focused on building NLP-driven solutions for data processing, survey optimization, automated translation, and quality assurance.
 
 Currently, I develop machine learning solutions for the insurance industry as part of the chatbot team, focusing on enhancing conversational AI capabilities and streamlining client interactions
 
